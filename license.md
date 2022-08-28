@@ -1,0 +1,1 @@
+No license, no intention for there to be a license!

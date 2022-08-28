@@ -1,0 +1,11 @@
+ID,PropertyID,Title,Room Price,Room Type,Ensuite,Balcony
+08c03adf-2645-4142-a734-77a3cfbb85f4,fbf7bdb0-9dcf-428a-b4ac-b3de97124eb1,Bedroom 1,900,Double,TRUE,FALSE
+467d47ca-6abe-4dda-9e2d-fc47bef5958c,fbf7bdb0-9dcf-428a-b4ac-b3de97124eb1,Bedroom 2,700,Double,FALSE,FALSE
+169fb4ef-6c40-464e-87a7-6c734adf4325,665e6115-765b-4981-8db4-48997d2fe442,Bedroom 1,900,Double,TRUE,TRUE
+b754cedc-e382-4786-8ccd-abd9fb04a6f3,665e6115-765b-4981-8db4-48997d2fe442,Bedroom 2,600,Single,FALSE,FALSE
+6fe1c4c9-6290-4982-901d-1df2303a8cc3,537123ab-84cd-47bc-849b-35f845253e0c,Bedroom 1,800,Double,FALSE,FALSE
+c9ceb4d3-c985-47e0-bc18-a071eb93ef14,537123ab-84cd-47bc-849b-35f845253e0c,Bedroom 2,800,Double,FALSE,FALSE
+1942acbd-64dc-4686-9042-22c49e85c91b,2317d61e-6067-4f76-abec-9f9cbeee5b28,Bedroom 1,900,Double,TRUE,TRUE
+6a8be9f7-d498-47c9-96d6-2e4a8073a4d7,2317d61e-6067-4f76-abec-9f9cbeee5b28,Bedroom 2,600,Single,FALSE,FALSE
+cd893425-9bf8-452d-bb9f-f25d75bea08f,ea8e5ca3-4e08-457e-945e-b9f77f7dc918,Bedroom 1,700,Double,FALSE,FALSE
+5a45cb93-2685-4260-aea1-89a942331f30,ea8e5ca3-4e08-457e-945e-b9f77f7dc918,Bedroom 2,600,Single,FALSE,FALSE
